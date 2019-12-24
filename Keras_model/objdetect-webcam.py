@@ -1,17 +1,13 @@
 
 from keras.preprocessing.image import img_to_array
 from keras.models import load_model
-import imutils
 import cv2
 import numpy as np
 import sys
-import cv2
-import numpy as np
-from keras.models import load_model
 from keras.preprocessing import image
+
 danger = ['fire','smoke']
 def detect(frame):
-	
     models = load_model('model/firesmoke_model.h5')
     roi = cv2.resize(frame, (150, 150))
     roi = roi.astype('float')/255.0
