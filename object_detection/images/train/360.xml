@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>360.jpg</filename>
+	<path>C:\models\research\object_detection\images\train\360.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>997</width>
+		<height>1390</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>640</ymin>
+			<xmax>671</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

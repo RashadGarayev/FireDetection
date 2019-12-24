@@ -1,0 +1,6 @@
+tensorflow
+keras
+opencv-contrib-python
+numpy
+imageio
+lxml

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>143.jpg</filename>
+	<path>C:\models\research\object_detection\images\test\143.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2999</width>
+		<height>2344</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1260</xmin>
+			<ymin>936</ymin>
+			<xmax>1495</xmax>
+			<ymax>1233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>457.jpg</filename>
+	<path>C:\models\research\object_detection\images\train\457.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>700</width>
+		<height>394</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>174</ymin>
+			<xmax>272</xmax>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+</annotation>
