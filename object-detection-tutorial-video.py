@@ -29,9 +29,9 @@ from object_detection.utils import ops as utils_ops
 
 import imageio
 
-reader = imageio.get_reader('firedetection.mp4')
+reader = imageio.get_reader('video/firedetection.mp4')
 fps = reader.get_meta_data()['fps']
-writer = imageio.get_writer('fire.mp4', fps=fps)
+writer = imageio.get_writer('video/fire.mp4', fps=fps)
 
 
 from utils import label_map_util

@@ -30,7 +30,7 @@ Each dataset is required to have a label map associated with it. This label map 
 
 
 ----------
-![Faster RCNN](fire.png)
+![Faster RCNN](gitimg/fire.png)
 
 ----------
 ## Installation ##
@@ -57,7 +57,7 @@ Depending on the hardware configuration of your system, the execution time will 
 
 # Test #
 
-![Faster RCNN](testimg.png)
+![Faster RCNN](gitimg/testimg.png)
 
 
 ----------
@@ -66,7 +66,7 @@ Depending on the hardware configuration of your system, the execution time will 
 
 
 
-[![](video.gif)](https://www.youtube.com/watch?v=7q5gGjmcwdg "")
+[![](gitimg/video.gif)](https://www.youtube.com/watch?v=7q5gGjmcwdg "")
 ----------
 
 
