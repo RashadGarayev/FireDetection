@@ -64,10 +64,7 @@ Depending on the hardware configuration of your system, the execution time will 
 
 
 
-
-[![](https://img.https://www.youtube.com/watch?v=7q5gGjmcwdg.jpg)](https://www.youtube.com/watch?v=7q5gGjmcwdg)
-
-
+[![FireDetection](http://img.https://www.youtube.com/watch?v=7q5gGjmcwdg/0.jpg)](https://www.youtube.com/watch?v=7q5gGjmcwdg "Fire Detection")
 
 ----------
 
