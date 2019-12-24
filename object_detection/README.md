@@ -64,7 +64,7 @@ Depending on the hardware configuration of your system, the execution time will 
 
 
 
-![](video.gif,"https://www.youtube.com/watch?v=7q5gGjmcwdg")
+!["https://www.youtube.com/watch?v=7q5gGjmcwdg"](video.gif )
 ----------
 
 
