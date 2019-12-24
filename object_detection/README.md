@@ -64,9 +64,8 @@ Depending on the hardware configuration of your system, the execution time will 
 
 
 
-[![Watch the video](!testimg.png)](https://www.youtube.com/watch?v=7q5gGjmcwdg)
 
-[![Alt text](https://img.https://www.youtube.com/watch?v=7q5gGjmcwdg.jpg)](https://www.youtube.com/watch?v=7q5gGjmcwdg)
+[![](https://img.https://www.youtube.com/watch?v=7q5gGjmcwdg.jpg)](https://www.youtube.com/watch?v=7q5gGjmcwdg)
 
 
 
