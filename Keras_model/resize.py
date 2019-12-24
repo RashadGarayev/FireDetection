@@ -1,7 +1,7 @@
 import os
 import argparse
 from PIL import Image
-DEFAULT_SIZE = (256, 256)
+DEFAULT_SIZE = (150, 150)
 def resize_image(input_dir, infile, output_dir="resized", size=DEFAULT_SIZE):
     outfile = os.path.splitext(infile)[0] + "fire"
     extension = os.path.splitext(infile)[1]
