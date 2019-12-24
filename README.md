@@ -72,7 +72,7 @@ Depending on the hardware configuration of your system, the execution time will 
 
 # Keras #
 
-**Data collection from Google: Fire and Smoke**
+**collect data from Google: Fire and Smoke**
 
 Train Data : Train data contains the 200 images of each fire,smoke  total their are 400 images in the training dataset
 Test Data : Test data contains 50 images of each fire and smoke  total their are 100 images in the test dataset
