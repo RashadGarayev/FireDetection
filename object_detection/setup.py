@@ -22,7 +22,7 @@ setuptools.setup(
 
    long_description_content_type="text/markdown",
 
-     url="https://github.com/javatechy/dokr",
+     url="https://github.com/RashadGarayev/FireDetection",
 
      packages=setuptools.find_packages(),
 
