@@ -111,7 +111,7 @@ vis_util.visualize_boxes_and_labels_on_image_array(
 	)
 
 # All the results have been drawn on image. Now display the image.
-cv2.imshow('Object detector', image)
+cv2.imshow('Fire-Detection', image)
 
 # Press any key to close the image
 cv2.waitKey(0)
