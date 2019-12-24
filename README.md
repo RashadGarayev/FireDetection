@@ -96,7 +96,7 @@ Below is the complete implementation:
 ![Faster RCNN](Keras_model/images/smoketest.png)
 
 
-After I run the following code, I can see the following files in that folder:
+
 
      > cd Keras_model
      > Directory of G:\FireDetection\object_detection\Keras_model
